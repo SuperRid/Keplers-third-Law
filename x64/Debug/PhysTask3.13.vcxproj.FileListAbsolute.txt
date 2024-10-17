@@ -1,0 +1,9 @@
+C:\Users\Super\Desktop\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask3.13.vcxproj.AssemblyReference.cache
+C:\Users\Super\Desktop\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask313.MyForm.resources
+C:\Users\Super\Desktop\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask3.13.vcxproj.GenerateResource.cache
+D:\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask3.13.vcxproj.AssemblyReference.cache
+D:\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask313.MyForm.resources
+D:\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask3.13.vcxproj.GenerateResource.cache
+D:\Учеба\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask3.13.vcxproj.AssemblyReference.cache
+D:\Учеба\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask313.MyForm.resources
+D:\Учеба\Чм\PhysTask3.13\PhysTask3.13\x64\Debug\PhysTask3.13.vcxproj.GenerateResource.cache
